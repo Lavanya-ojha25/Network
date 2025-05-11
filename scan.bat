@@ -1,4 +1,5 @@
 @echo off
+echo Made by Lavanya Ojha
 echo Welcome to Simple Nmap Bash Scanner
 set /p target="Enter the target IP or domain: "
 set filename=results\%target%_scan.txt
